@@ -1,0 +1,2915 @@
+1
+00:00:02,200 --> 00:00:08,735
+In 1995 and 1996, sixty-six gray wolves were released into central Idaho and Yellowstone National Park,
+
+2
+00:00:08,735 --> 00:00:13,240
+about seventy years after the last of Yellowstone’s wolves were killed.
+
+3
+00:00:13,640 --> 00:00:17,990
+Their descendants now number at least twenty-eight hundred, across six states.
+
+4
+00:00:18,740 --> 00:00:21,620
+Within twenty years a story had traveled around the world.
+
+5
+00:00:22,020 --> 00:00:25,897
+The wolves had frightened the elk, the willows and aspen had grown back,
+
+6
+00:00:25,897 --> 00:00:28,320
+and even the rivers had changed their course.
+
+7
+00:00:29,070 --> 00:00:30,440
+It is a beautiful story.
+
+8
+00:00:30,840 --> 00:00:31,520
+Is it true?
+
+9
+00:00:34,920 --> 00:00:38,030
+To answer, we have to pull apart three things that are easy to blur.
+
+10
+00:00:38,430 --> 00:00:40,040
+What did anyone actually observe?
+
+11
+00:00:40,440 --> 00:00:43,810
+What was inferred from those observations, and under which assumptions?
+
+12
+00:00:44,210 --> 00:00:46,140
+And what are we entitled to claim we know?
+
+13
+00:00:46,890 --> 00:00:50,991
+Ecologists have argued over those answers for a quarter of a century,
+
+14
+00:00:50,991 --> 00:00:54,260
+counting elk, measuring aspen, and collaring predators.
+
+15
+00:00:54,660 --> 00:00:58,110
+The argument is one of the best lessons there is in how science works.
+
+16
+00:00:58,860 --> 00:01:04,249
+So this film follows predators, and what they do and do not do to the world around them,
+
+17
+00:01:04,249 --> 00:01:08,169
+through the philosophy of science: what science is trying to do,
+
+18
+00:01:08,169 --> 00:01:12,272
+how we can know anything about nature, induction and falsification,
+
+19
+00:01:12,272 --> 00:01:17,110
+paradigms and models, causes and confounders, Bayesian belief, and replication.
+
+20
+00:01:17,860 --> 00:01:23,010
+And we will ask a harder question: what counts as science, and who gets to decide?
+
+21
+00:01:24,560 --> 00:01:25,610
+Two guides will help.
+
+22
+00:01:26,010 --> 00:01:30,810
+The badge in the corner shows whether an idea concerns observation, inference, or claim.
+
+23
+00:01:31,210 --> 00:01:35,050
+The lexicon on the right collects the terms an examiner may ask you to define.
+
+24
+00:01:38,450 --> 00:01:39,230
+Chapter one.
+
+25
+00:01:39,630 --> 00:01:43,070
+The aims of science: what all this effort is for.
+
+26
+00:01:45,770 --> 00:01:46,950
+Begin with one herd.
+
+27
+00:01:47,350 --> 00:01:48,740
+Just before wolves returned,
+
+28
+00:01:48,740 --> 00:01:53,060
+the elk wintering on Yellowstone’s Northern Range numbered more than nineteen thousand.
+
+29
+00:01:53,460 --> 00:01:57,800
+By 2013 the count had fallen to 3,915.
+
+30
+00:01:58,200 --> 00:02:00,820
+Today it is roughly seven to nine thousand.
+
+31
+00:02:01,570 --> 00:02:03,670
+Numbers like these invite different aims.
+
+32
+00:02:04,070 --> 00:02:06,220
+Explain: why did the herd decline?
+
+33
+00:02:06,620 --> 00:02:09,410
+Predict: will willows along the streams recover?
+
+34
+00:02:09,810 --> 00:02:13,110
+Intervene: would killing predators bring the elk back?
+
+35
+00:02:13,860 --> 00:02:15,180
+The aims can come apart.
+
+36
+00:02:15,580 --> 00:02:21,038
+Predators kill many young ungulates, yet across fifty-two predator-removal experiments,
+
+37
+00:02:21,038 --> 00:02:26,370
+removal often raised juvenile survival but rarely raised adult survival or abundance.
+
+38
+00:02:26,770 --> 00:02:30,410
+A true causal fact does not guarantee the outcome of an intervention.
+
+39
+00:02:31,160 --> 00:02:36,420
+Description, explanation, prediction, understanding, and control are all aims of science.
+
+40
+00:02:36,820 --> 00:02:38,507
+Traditions rank them differently,
+
+41
+00:02:38,507 --> 00:02:42,800
+and much confusion about what science is begins with confusion about what it is for.
+
+42
+00:02:45,200 --> 00:02:49,198
+In 1948, Carl Hempel and Paul Oppenheim proposed that to explain
+
+43
+00:02:49,198 --> 00:02:53,320
+an event is to deduce it from general laws and initial conditions.
+
+44
+00:02:53,720 --> 00:02:55,760
+On their deductive-nomological model,
+
+45
+00:02:55,760 --> 00:02:59,840
+explanation and prediction are the same argument, made at different times.
+
+46
+00:03:00,590 --> 00:03:01,610
+The symmetry breaks.
+
+47
+00:03:02,010 --> 00:03:05,788
+A flagpole’s shadow and the sun’s angle let you deduce the pole’s height,
+
+48
+00:03:05,788 --> 00:03:07,600
+but the shadow does not explain it.
+
+49
+00:03:08,000 --> 00:03:12,786
+A correlative distribution model can predict where a species lives without saying why,
+
+50
+00:03:12,786 --> 00:03:16,570
+and a mechanistic model can explain a process yet predict it poorly.
+
+51
+00:03:17,320 --> 00:03:22,150
+Wesley Salmon answered that explanation shows the causes and mechanisms that produced an event.
+
+52
+00:03:22,550 --> 00:03:26,870
+Philip Kitcher answered that it unifies many phenomena under a few patterns of argument.
+
+53
+00:03:27,270 --> 00:03:29,928
+Trophic cascade theory aspires to both:
+
+54
+00:03:29,928 --> 00:03:35,040
+one mechanism linking otters and kelp, wolves and aspen, spiders and grass.
+
+55
+00:03:37,440 --> 00:03:39,310
+When a theory works, is it true?
+
+56
+00:03:39,710 --> 00:03:42,370
+Scientific realists say yes, approximately.
+
+57
+00:03:42,770 --> 00:03:45,299
+Hilary Putnam argued that realism is the only view
+
+58
+00:03:45,299 --> 00:03:47,930
+that does not make the success of science a miracle.
+
+59
+00:03:48,680 --> 00:03:52,187
+Larry Laudan replied with history: the ether, caloric,
+
+60
+00:03:52,187 --> 00:03:55,370
+and phlogiston all succeeded, and all were false.
+
+61
+00:03:55,770 --> 00:03:58,720
+If success did not guarantee truth then, why now?
+
+62
+00:03:59,120 --> 00:04:01,190
+This is the pessimistic meta-induction.
+
+63
+00:04:01,940 --> 00:04:03,960
+Antirealists offer humbler aims.
+
+64
+00:04:04,360 --> 00:04:06,730
+Instrumentalists treat theories as tools.
+
+65
+00:04:07,130 --> 00:04:12,470
+Bas van Fraassen asks only that a theory be empirically adequate, true about what is observable.
+
+66
+00:04:12,870 --> 00:04:16,880
+Structural realists keep the mathematical structure that survives theory change.
+
+67
+00:04:17,630 --> 00:04:21,449
+Ecology is full of things no one observes directly: niches,
+
+68
+00:04:21,449 --> 00:04:25,010
+carrying capacity, predation risk, a landscape of fear.
+
+69
+00:04:25,410 --> 00:04:27,850
+Real features of the world, or useful summaries?
+
+70
+00:04:28,250 --> 00:04:30,510
+Your answer shapes what you think a study has shown.
+
+71
+00:04:32,910 --> 00:04:35,480
+This film sorts every idea into three bands.
+
+72
+00:04:35,880 --> 00:04:39,710
+Observation: records made by senses and instruments.
+
+73
+00:04:40,110 --> 00:04:44,130
+Inference: reasoning from records through models and assumptions.
+
+74
+00:04:44,530 --> 00:04:49,750
+Claim: a statement of knowledge, with its scope and confidence, offered for scrutiny.
+
+75
+00:04:50,500 --> 00:04:53,550
+The bands follow Stephen Toulmin’s model of an argument.
+
+76
+00:04:53,950 --> 00:04:56,236
+Data support a claim through a warrant,
+
+77
+00:04:56,236 --> 00:04:59,870
+a general rule that licenses the step, which rests on backing.
+
+78
+00:05:00,270 --> 00:05:05,400
+A qualifier says how strongly the claim holds; a rebuttal says when it would not.
+
+79
+00:05:06,150 --> 00:05:07,170
+Try it on the herd.
+
+80
+00:05:07,570 --> 00:05:11,020
+Data: elk counts fell after 1995.
+
+81
+00:05:11,420 --> 00:05:13,630
+Warrant: predators can reduce prey.
+
+82
+00:05:14,030 --> 00:05:16,400
+Claim: wolves caused the decline.
+
+83
+00:05:16,800 --> 00:05:18,390
+Qualifier: in part.
+
+84
+00:05:18,790 --> 00:05:22,555
+Rebuttal: unless hunting and drought did most of the work, which,
+
+85
+00:05:22,555 --> 00:05:26,030
+for the first decade, a demographic analysis found they did.
+
+86
+00:05:26,780 --> 00:05:32,379
+Each band adds assumptions, and each fails in its own way: observations can be biased,
+
+87
+00:05:32,379 --> 00:05:36,220
+inferences confounded, and claims can outrun their warrant.
+
+88
+00:05:38,420 --> 00:05:39,180
+Chapter two.
+
+89
+00:05:39,580 --> 00:05:43,430
+Knowing nature: what knowledge is, and the traditions that seek it.
+
+90
+00:05:46,130 --> 00:05:50,280
+Epistemology is the study of knowledge: what it is, and how we get it.
+
+91
+00:05:50,680 --> 00:05:53,760
+A classic answer says knowledge is justified true belief.
+
+92
+00:05:54,160 --> 00:05:57,520
+You believe it, it is true, and you have good reason to believe it.
+
+93
+00:05:58,270 --> 00:06:01,900
+In 1963, Edmund Gettier showed that is not enough.
+
+94
+00:06:02,300 --> 00:06:07,530
+A biologist glimpses a coyote, takes it for a wolf, and concludes a wolf is in the valley.
+
+95
+00:06:07,930 --> 00:06:09,990
+One is, out of sight behind a ridge.
+
+96
+00:06:10,390 --> 00:06:14,390
+The belief is justified and true, but it is luck, not knowledge.
+
+97
+00:06:15,140 --> 00:06:16,830
+Where does justification come from?
+
+98
+00:06:17,230 --> 00:06:21,270
+Empiricists answer experience; rationalists, reason.
+
+99
+00:06:21,670 --> 00:06:24,795
+Foundationalists rest knowledge on basic beliefs;
+
+100
+00:06:24,795 --> 00:06:27,920
+coherentists, on how beliefs support one another.
+
+101
+00:06:28,320 --> 00:06:32,790
+And David Hume warned that no amount of past experience logically guarantees the future.
+
+102
+00:06:33,540 --> 00:06:37,787
+Most scientists today are fallibilists, after Charles Sanders Peirce:
+
+103
+00:06:37,787 --> 00:06:41,910
+any belief might be wrong, so inquiry must stay open to correction.
+
+104
+00:06:42,310 --> 00:06:46,730
+Willard Quine went further and treated epistemology itself as part of science,
+
+105
+00:06:46,730 --> 00:06:48,770
+the study of how real knowers learn.
+
+106
+00:06:51,170 --> 00:06:54,160
+Research traditions differ in how they answer four questions.
+
+107
+00:06:54,560 --> 00:06:56,800
+Ontology: what exists to be known?
+
+108
+00:06:57,200 --> 00:06:59,420
+Epistemology: how can we know it?
+
+109
+00:06:59,820 --> 00:07:02,690
+Methodology: how do we go about finding out?
+
+110
+00:07:03,090 --> 00:07:06,830
+Axiology: what do we value in research, and what do we owe?
+
+111
+00:07:07,580 --> 00:07:11,749
+Egon Guba and Yvonna Lincoln compared research paradigms by the first three,
+
+112
+00:07:11,749 --> 00:07:13,230
+and later added the fourth.
+
+113
+00:07:13,630 --> 00:07:18,250
+A warning about the word: paradigm here means a broad research tradition,
+
+114
+00:07:18,250 --> 00:07:22,110
+not quite Thomas Kuhn’s sense, which we meet in chapter five.
+
+115
+00:07:22,860 --> 00:07:25,619
+We will follow two broad traditions:
+
+116
+00:07:25,619 --> 00:07:30,600
+positivism and its successor, postpositivism; and interpretivism.
+
+117
+00:07:31,000 --> 00:07:36,530
+Each is internally diverse, none is a single view, and neither belongs to a single discipline.
+
+118
+00:07:38,930 --> 00:07:41,754
+Auguste Comte coined positivism in the 1830s:
+
+119
+00:07:41,754 --> 00:07:47,150
+knowledge comes from observation and the laws that summarize it, not from metaphysics.
+
+120
+00:07:47,550 --> 00:07:51,448
+In the 1920s the Vienna Circle sharpened it into logical positivism,
+
+121
+00:07:51,448 --> 00:07:55,690
+and A. J. Ayer carried its verification principle into English philosophy.
+
+122
+00:07:56,440 --> 00:07:59,171
+A statement is meaningful, the principle said,
+
+123
+00:07:59,171 --> 00:08:02,970
+only if observation could verify it or it is true by definition.
+
+124
+00:08:03,370 --> 00:08:06,570
+The principle failed by its own test: it is neither.
+
+125
+00:08:06,970 --> 00:08:09,197
+And it would have ruled out much of physics,
+
+126
+00:08:09,197 --> 00:08:11,830
+whose theoretical terms are never observed directly.
+
+127
+00:08:12,580 --> 00:08:15,870
+What most ecologists practice today is postpositivism.
+
+128
+00:08:16,270 --> 00:08:22,364
+A real world exists but is imperfectly known; every observation is fallible; so we use design,
+
+129
+00:08:22,364 --> 00:08:27,940
+statistics, and replication to approach the truth, and hold conclusions provisionally.
+
+130
+00:08:28,340 --> 00:08:30,960
+Critical realism gives this stance its philosophy.
+
+131
+00:08:33,360 --> 00:08:36,227
+In the late nineteenth century, Wilhelm Dilthey argued
+
+132
+00:08:36,227 --> 00:08:38,670
+that the human sciences need their own method.
+
+133
+00:08:39,070 --> 00:08:43,090
+Nature we explain, from outside, by causes: Erklären.
+
+134
+00:08:43,490 --> 00:08:48,500
+Human life we understand, from inside, through meanings: Verstehen.
+
+135
+00:08:49,250 --> 00:08:51,747
+Max Weber built Verstehen into sociology,
+
+136
+00:08:51,747 --> 00:08:56,620
+and Charles Taylor argued that the social sciences are irreducibly interpretive.
+
+137
+00:08:57,020 --> 00:09:00,830
+Peter Berger and Thomas Luckmann showed how much of social reality,
+
+138
+00:09:00,830 --> 00:09:05,890
+from property lines to protected-area boundaries, is constructed and sustained by people.
+
+139
+00:09:06,640 --> 00:09:10,450
+Wildlife science meets interpretivism wherever people are part of the system.
+
+140
+00:09:10,850 --> 00:09:14,423
+Whether a wolf is a symbol of wilderness, a threat to a ranch,
+
+141
+00:09:14,423 --> 00:09:17,650
+or a rival for the hunter’s elk depends on who is asked.
+
+142
+00:09:18,050 --> 00:09:22,620
+Ecologists call the number of carnivores people will tolerate the social carrying capacity.
+
+143
+00:09:25,020 --> 00:09:27,390
+Look at the Northern Range elk through each lens.
+
+144
+00:09:27,790 --> 00:09:33,350
+A postpositivist counts animals, estimates survival, and models the causes of decline.
+
+145
+00:09:33,750 --> 00:09:37,170
+The question is what happened, and how much each factor contributed.
+
+146
+00:09:37,920 --> 00:09:41,432
+An interpretivist asks what the herd means to ranchers, hunters,
+
+147
+00:09:41,432 --> 00:09:45,054
+outfitters, and visitors, and how those meanings shape management,
+
+148
+00:09:45,054 --> 00:09:49,280
+from hunting quotas to tolerance of elk on irrigated fields outside the park.
+
+149
+00:09:49,680 --> 00:09:54,260
+One herd, two kinds of question; each lens shows something the other misses.
+
+150
+00:09:56,460 --> 00:09:57,220
+Chapter three.
+
+151
+00:09:57,620 --> 00:10:01,330
+Inference: deduction, induction, and abduction.
+
+152
+00:10:04,030 --> 00:10:09,800
+Aldo Leopold supported killing predators in the 1910s and 1920s, then changed his mind.
+
+153
+00:10:10,200 --> 00:10:14,072
+On Arizona’s Kaibab Plateau, he wrote, deer had irrupted after wolves
+
+154
+00:10:14,072 --> 00:10:18,000
+and pumas were removed, then stripped the range of browse and starved.
+
+155
+00:10:18,750 --> 00:10:21,430
+Rachel Carson retold the story in Silent Spring.
+
+156
+00:10:21,830 --> 00:10:25,504
+It became a founding example for the green world hypothesis:
+
+157
+00:10:25,504 --> 00:10:29,300
+the world is green because predators keep herbivores in check.
+
+158
+00:10:30,050 --> 00:10:33,332
+In 1970, Graeme Caughley examined the Kaibab records
+
+159
+00:10:33,332 --> 00:10:36,110
+and called them unreliable and inconsistent.
+
+160
+00:10:36,510 --> 00:10:40,263
+He suggested the deer increase may have followed the removal of cattle,
+
+161
+00:10:40,263 --> 00:10:42,430
+a rival explanation no one had ruled out.
+
+162
+00:10:42,830 --> 00:10:45,950
+A general rule had been built on one poorly measured case.
+
+163
+00:10:48,350 --> 00:10:51,020
+Deduction moves from premises to what must follow.
+
+164
+00:10:51,420 --> 00:10:54,870
+If all elk are ungulates, and this is an elk, it is an ungulate.
+
+165
+00:10:55,270 --> 00:10:59,240
+A valid deduction cannot have true premises and a false conclusion;
+
+166
+00:10:59,240 --> 00:11:01,610
+a sound one is valid with true premises.
+
+167
+00:11:02,010 --> 00:11:04,920
+But deduction never says more than its premises contain.
+
+168
+00:11:05,670 --> 00:11:12,120
+Induction generalizes from cases: every swan seen so far is white, so all swans are white.
+
+169
+00:11:12,520 --> 00:11:15,590
+It is ampliative, adding content, and fallible.
+
+170
+00:11:15,990 --> 00:11:20,650
+David Hume showed it cannot be justified without assuming the future will resemble the past.
+
+171
+00:11:21,050 --> 00:11:24,260
+Europeans learned this in Australia, from black swans.
+
+172
+00:11:25,010 --> 00:11:27,400
+Abduction, Charles Sanders Peirce’s term,
+
+173
+00:11:27,400 --> 00:11:31,540
+reasons from a surprising fact to the hypothesis that would explain it.
+
+174
+00:11:31,940 --> 00:11:37,267
+Peter Lipton calls this inference to the best explanation, and warns that the loveliest explanation,
+
+175
+00:11:37,267 --> 00:11:40,730
+the one that would explain the most, is not always the likeliest.
+
+176
+00:11:41,480 --> 00:11:44,295
+The Kaibab story was an induction from one case,
+
+177
+00:11:44,295 --> 00:11:47,930
+joined to an abduction whose loveliness hid an untested rival.
+
+178
+00:11:50,330 --> 00:11:51,840
+Science runs the three together.
+
+179
+00:11:52,240 --> 00:11:55,270
+The hypothetico-deductive method takes a hypothesis,
+
+180
+00:11:55,270 --> 00:11:58,650
+deduces what should be observed if it is true, and checks.
+
+181
+00:11:59,050 --> 00:12:02,020
+In Yellowstone, aspen grew taller after wolves returned.
+
+182
+00:12:02,420 --> 00:12:04,580
+The abduction: wolves did it.
+
+183
+00:12:05,330 --> 00:12:05,860
+But how?
+
+184
+00:12:06,260 --> 00:12:11,090
+If fear kept elk away from risky places, browsing should drop most where wolves hunt.
+
+185
+00:12:11,490 --> 00:12:16,080
+If wolves simply reduced elk numbers, recovery should track elk density everywhere.
+
+186
+00:12:16,480 --> 00:12:20,370
+Two mechanisms, two different predictions, testable in the field.
+
+187
+00:12:21,120 --> 00:12:25,513
+In 1890, Thomas Chamberlin urged scientists to hold multiple working hypotheses,
+
+188
+00:12:25,513 --> 00:12:27,710
+so they would not fall in love with one.
+
+189
+00:12:28,110 --> 00:12:32,050
+In 1964, John Platt called the method strong inference:
+
+190
+00:12:32,050 --> 00:12:37,350
+devise rival hypotheses, design experiments that exclude some, and repeat.
+
+191
+00:12:37,750 --> 00:12:43,060
+In 2015, Adam Ford and Jacob Goheen asked trophic-cascade research to do exactly that.
+
+192
+00:12:45,260 --> 00:12:46,040
+Chapter four.
+
+193
+00:12:46,440 --> 00:12:48,450
+Falsification, and why it is not enough.
+
+194
+00:12:51,460 --> 00:12:53,670
+Karl Popper turned Hume’s problem around.
+
+195
+00:12:54,070 --> 00:12:57,068
+No number of white swans proves that all swans are white,
+
+196
+00:12:57,068 --> 00:12:59,120
+but one black swan proves they are not.
+
+197
+00:12:59,520 --> 00:13:02,890
+Verification and falsification are logically asymmetric.
+
+198
+00:13:03,640 --> 00:13:08,730
+So science, Popper argued, advances by bold conjectures that risk refutation.
+
+199
+00:13:09,130 --> 00:13:13,220
+A theory that survives a severe test is corroborated, never proven.
+
+200
+00:13:13,620 --> 00:13:18,220
+In 1919, Einstein’s theory predicted how far starlight would bend around the sun.
+
+201
+00:13:18,620 --> 00:13:19,500
+It could have failed.
+
+202
+00:13:19,900 --> 00:13:20,590
+It did not.
+
+203
+00:13:21,340 --> 00:13:26,080
+Falsifiability became Popper’s criterion for separating science from pseudoscience.
+
+204
+00:13:26,480 --> 00:13:30,480
+A theory that could explain any outcome, whatever happened, explained nothing.
+
+205
+00:13:32,880 --> 00:13:34,180
+Here is a bold conjecture.
+
+206
+00:13:34,580 --> 00:13:38,996
+Wolves reduce elk numbers not only by killing them but by frightening them:
+
+207
+00:13:38,996 --> 00:13:41,940
+vigilant, stressed elk eat less and conceive less.
+
+208
+00:13:42,340 --> 00:13:44,969
+In 2007, Scott Creel and colleagues reported
+
+209
+00:13:44,969 --> 00:13:49,390
+that elk progesterone fell as wolves became more numerous relative to elk.
+
+210
+00:13:50,140 --> 00:13:52,415
+Later studies measured pregnancy directly,
+
+211
+00:13:52,415 --> 00:13:55,610
+from hunter-killed cows and from blood samples of live elk.
+
+212
+00:13:56,010 --> 00:13:59,440
+Pregnancy rates were uniformly high, whatever the wolf risk.
+
+213
+00:13:59,840 --> 00:14:03,590
+And collared elk met wolves too rarely for fear to disrupt their foraging.
+
+214
+00:14:04,340 --> 00:14:06,170
+Is the fear hypothesis falsified?
+
+215
+00:14:06,570 --> 00:14:07,110
+Not quite.
+
+216
+00:14:07,510 --> 00:14:10,914
+The first test assumed that progesterone indexes pregnancy,
+
+217
+00:14:10,914 --> 00:14:13,510
+and that the elk-to-wolf ratio measures risk.
+
+218
+00:14:13,910 --> 00:14:16,950
+If either auxiliary was wrong, the hypothesis survives.
+
+219
+00:14:17,350 --> 00:14:22,190
+Fear effects are well documented in behavior, but not yet shown to change elk demography.
+
+220
+00:14:24,590 --> 00:14:27,180
+Pierre Duhem saw the problem in 1906.
+
+221
+00:14:27,580 --> 00:14:31,230
+A prediction follows from a hypothesis plus auxiliary assumptions,
+
+222
+00:14:31,230 --> 00:14:33,830
+so a failed prediction refutes only the bundle.
+
+223
+00:14:34,230 --> 00:14:36,210
+Willard Quine generalized the point.
+
+224
+00:14:36,610 --> 00:14:38,890
+Logic alone never says which part to blame.
+
+225
+00:14:39,640 --> 00:14:42,020
+Sometimes blaming an auxiliary is brilliant.
+
+226
+00:14:42,420 --> 00:14:44,937
+When Uranus strayed from its predicted orbit,
+
+227
+00:14:44,937 --> 00:14:48,070
+astronomers proposed an unseen planet and found Neptune.
+
+228
+00:14:48,470 --> 00:14:53,570
+When Mercury strayed, the same move predicted a planet, Vulcan, that does not exist.
+
+229
+00:14:53,970 --> 00:14:55,600
+The fault lay in Newton’s theory.
+
+230
+00:14:56,350 --> 00:14:58,550
+Imre Lakatos made the choice principled.
+
+231
+00:14:58,950 --> 00:15:03,640
+A research program has a hard core, protected by a belt of auxiliary hypotheses.
+
+232
+00:15:04,040 --> 00:15:07,120
+Adjusting the belt is progressive if it predicts new facts,
+
+233
+00:15:07,120 --> 00:15:09,470
+and degenerating if it only patches failures.
+
+234
+00:15:09,870 --> 00:15:12,250
+All theories, he noted, are born refuted.
+
+235
+00:15:13,000 --> 00:15:17,954
+In Yellowstone, after a landscape test found no effect of predation risk on aspen browsing,
+
+236
+00:15:17,954 --> 00:15:21,601
+proponents argued that elk sense risk where they first meet wolves,
+
+237
+00:15:21,601 --> 00:15:25,030
+not where wolves kill them, nearly a kilometer away on average.
+
+238
+00:15:25,430 --> 00:15:28,840
+Lakatos asks: did the adjustment predict anything new?
+
+239
+00:15:29,590 --> 00:15:30,400
+Two cautions.
+
+240
+00:15:30,800 --> 00:15:35,100
+Probabilistic hypotheses cannot be strictly falsified by any single result.
+
+241
+00:15:35,500 --> 00:15:39,588
+And a null hypothesis significance test is not Popperian falsification:
+
+242
+00:15:39,588 --> 00:15:44,310
+rejecting a null of no effect at all is not a risky test of a research hypothesis.
+
+243
+00:15:46,510 --> 00:15:47,300
+Chapter five.
+
+244
+00:15:47,700 --> 00:15:50,140
+Paradigms, and how science changes its mind.
+
+245
+00:15:52,840 --> 00:15:58,543
+In 1962, Thomas Kuhn described science not as a steady march of conjectures and refutations,
+
+246
+00:15:58,543 --> 00:16:02,510
+but as long periods of normal science punctuated by revolutions.
+
+247
+00:16:03,260 --> 00:16:08,369
+In normal science a community shares a paradigm: a disciplinary matrix of theories,
+
+248
+00:16:08,369 --> 00:16:13,970
+methods, and values, anchored by exemplars, model solutions that students learn to imitate.
+
+249
+00:16:14,370 --> 00:16:16,280
+Research is puzzle-solving within it.
+
+250
+00:16:16,680 --> 00:16:20,380
+Anomalies are set aside, until they accumulate into a crisis.
+
+251
+00:16:21,130 --> 00:16:23,200
+A revolution replaces the paradigm.
+
+252
+00:16:23,600 --> 00:16:29,110
+Kuhn compared it to a gestalt switch: the same figure seen first as a duck, then as a rabbit.
+
+253
+00:16:29,510 --> 00:16:33,970
+Rival paradigms can be incommensurable, disagreeing about which problems matter
+
+254
+00:16:33,970 --> 00:16:38,260
+and what would count as a solution, so no neutral test decides between them.
+
+255
+00:16:40,660 --> 00:16:44,909
+For the first half of the twentieth century, killing predators was normal practice,
+
+256
+00:16:44,909 --> 00:16:47,930
+carried out by government hunters across the American West.
+
+257
+00:16:48,330 --> 00:16:51,872
+By 1994, wolves in the lower forty-eight states survived only
+
+258
+00:16:51,872 --> 00:16:55,530
+around the northern Great Lakes and near Glacier National Park.
+
+259
+00:16:56,280 --> 00:16:59,010
+Leopold’s own reversal reads like a gestalt switch.
+
+260
+00:16:59,410 --> 00:17:03,889
+In “Thinking Like a Mountain,” he describes watching a fierce green fire die in the eyes of
+
+261
+00:17:03,889 --> 00:17:08,270
+a wolf he had shot, and realizing that the mountain saw the wolf differently than he did.
+
+262
+00:17:09,020 --> 00:17:14,505
+A new program grew around top-down control, with its own exemplars: killer whales,
+
+263
+00:17:14,505 --> 00:17:21,327
+sea otters, urchins, and kelp; ecological meltdown on predator-free islands in a Venezuelan reservoir;
+
+264
+00:17:21,327 --> 00:17:25,140
+songbirds lost to mesopredators once coyotes disappeared.
+
+265
+00:17:25,540 --> 00:17:27,450
+Yellowstone became the textbook case.
+
+266
+00:17:28,200 --> 00:17:32,800
+Normal science followed, extending the pattern to willow, cottonwood, and other parks.
+
+267
+00:17:33,200 --> 00:17:35,890
+So did anomalies, which we meet in the chapters ahead.
+
+268
+00:17:36,290 --> 00:17:40,950
+Did ecology then undergo a revolution, or absorb its anomalies as context?
+
+269
+00:17:41,350 --> 00:17:43,130
+Kuhn gives you the tools to decide.
+
+270
+00:17:45,530 --> 00:17:48,750
+If there is no neutral test, is theory choice irrational?
+
+271
+00:17:49,150 --> 00:17:53,064
+Kuhn said no. Scientists share values: accuracy,
+
+272
+00:17:53,064 --> 00:17:57,060
+consistency, scope, simplicity, and fruitfulness.
+
+273
+00:17:57,460 --> 00:18:01,500
+But they weigh them differently, so the values guide judgment without dictating it.
+
+274
+00:18:02,250 --> 00:18:03,700
+Critics pushed both ways.
+
+275
+00:18:04,100 --> 00:18:07,590
+Lakatos thought programs could be ranked objectively by their progress.
+
+276
+00:18:07,990 --> 00:18:12,882
+Paul Feyerabend argued that every rule of method has been broken by some great scientist,
+
+277
+00:18:12,882 --> 00:18:15,410
+so the only universal rule is “anything goes.”
+
+278
+00:18:15,810 --> 00:18:19,180
+Larry Laudan judged traditions by their success at solving problems.
+
+279
+00:18:19,930 --> 00:18:22,359
+Ecology has its own candidate revolution,
+
+280
+00:18:22,359 --> 00:18:26,210
+from the balance of nature to non-equilibrium and patch dynamics.
+
+281
+00:18:28,410 --> 00:18:29,260
+Chapter six.
+
+282
+00:18:29,660 --> 00:18:31,700
+Observation, and the theory it carries.
+
+283
+00:18:34,610 --> 00:18:36,780
+Is there such a thing as a pure observation?
+
+284
+00:18:37,180 --> 00:18:42,380
+Norwood Russell Hanson asked us to imagine Tycho Brahe and Johannes Kepler on a hill at dawn.
+
+285
+00:18:42,780 --> 00:18:46,340
+Tycho, who believed the earth stood still, sees the sun rise.
+
+286
+00:18:46,740 --> 00:18:48,680
+Kepler sees the horizon turn away.
+
+287
+00:18:49,080 --> 00:18:50,940
+The same light, seen differently.
+
+288
+00:18:51,690 --> 00:18:55,753
+Observation is theory-laden: what we notice, how we describe it,
+
+289
+00:18:55,753 --> 00:18:58,990
+and what we record depend on the concepts we bring.
+
+290
+00:18:59,390 --> 00:19:02,110
+James Bogen and James Woodward add a distinction.
+
+291
+00:19:02,510 --> 00:19:04,090
+Data are the records we collect.
+
+292
+00:19:04,490 --> 00:19:08,240
+Phenomena are the stable features of the world we infer from them,
+
+293
+00:19:08,240 --> 00:19:10,570
+and theories explain phenomena, not data.
+
+294
+00:19:12,970 --> 00:19:15,090
+How do you see whether aspen are recovering?
+
+295
+00:19:15,490 --> 00:19:20,098
+William Ripple and Robert Beschta measured the five tallest young aspen in each stand,
+
+296
+00:19:20,098 --> 00:19:23,260
+reasoning that recovery would show first among the leaders.
+
+297
+00:19:23,660 --> 00:19:27,442
+Matthew Kauffman and colleagues measured every young aspen in random plots,
+
+298
+00:19:27,442 --> 00:19:29,660
+and found no difference with predation risk.
+
+299
+00:19:30,410 --> 00:19:34,799
+Revisiting the stands in 2012, Luke Painter and colleagues used both designs,
+
+300
+00:19:34,799 --> 00:19:41,070
+random plots and the tallest stems, and drew their main range-wide conclusion largely from the random samples.
+
+301
+00:19:41,470 --> 00:19:46,270
+Up to sixty-five percent of stands had at least one sapling taller than two hundred centimeters,
+
+302
+00:19:46,270 --> 00:19:48,570
+the height at which aspen escape browsing elk.
+
+303
+00:19:49,320 --> 00:19:52,310
+Then Elaine Brice and colleagues compared the two designs.
+
+304
+00:19:52,710 --> 00:19:56,840
+Both detected a cascade, but random sampling showed a much weaker signal.
+
+305
+00:19:57,240 --> 00:20:00,311
+The tallest stems can show whether a cascade is happening;
+
+306
+00:20:00,311 --> 00:20:02,800
+only a random sample can show how strong it is.
+
+307
+00:20:03,550 --> 00:20:09,310
+Willow told a similar story: studies concentrated at well-watered sites overstated its recovery.
+
+308
+00:20:09,710 --> 00:20:11,180
+Neither design was dishonest.
+
+309
+00:20:11,580 --> 00:20:15,120
+Each embodied a different question, and the question shaped what was seen.
+
+310
+00:20:17,520 --> 00:20:19,350
+Instruments are theory made physical.
+
+311
+00:20:19,750 --> 00:20:24,388
+Early studies tracked elk with VHF radio collars, located a few times a month,
+
+312
+00:20:24,388 --> 00:20:27,480
+and could only map predation risk as fixed in space.
+
+313
+00:20:27,880 --> 00:20:34,210
+GPS collars on elk, wolves, and pumas, located many times a day, revealed something new.
+
+314
+00:20:34,960 --> 00:20:38,628
+Elk moved into open country at night and into forest by day,
+
+315
+00:20:38,628 --> 00:20:44,680
+avoiding the peak hours of both predators: wolves hunting open terrain, pumas hunting rough forest.
+
+316
+00:20:45,080 --> 00:20:46,858
+This dynamic landscape of fear,
+
+317
+00:20:46,858 --> 00:20:50,700
+invisible to the earlier instrument, left elk ample time to browse.
+
+318
+00:20:51,450 --> 00:20:57,122
+Before risk could be observed at all, it had to be defined: the core or edge of a wolf territory,
+
+319
+00:20:57,122 --> 00:21:01,800
+the presence of downed logs, the width of a viewshed, or the locations of kills.
+
+320
+00:21:02,200 --> 00:21:05,400
+Each operational definition carried a theory of what elk fear.
+
+321
+00:21:06,150 --> 00:21:07,670
+Your own data are no different.
+
+322
+00:21:08,070 --> 00:21:11,601
+A lidar canopy height model is an inference from laser returns,
+
+323
+00:21:11,601 --> 00:21:14,180
+classification thresholds, and a ground model.
+
+324
+00:21:14,580 --> 00:21:18,099
+An animal count is abundance multiplied by detection probability,
+
+325
+00:21:18,099 --> 00:21:21,130
+and not detecting a species is not proof of its absence.
+
+326
+00:21:23,530 --> 00:21:25,930
+Theory-ladenness does not mean anything goes.
+
+327
+00:21:26,330 --> 00:21:30,580
+The aspen stems were measured; they either grew past browse height or did not.
+
+328
+00:21:30,980 --> 00:21:35,107
+Ian Hacking argued that when independent methods, built on different theories,
+
+329
+00:21:35,107 --> 00:21:38,440
+converge on the same result, we have good reason to believe it.
+
+330
+00:21:39,190 --> 00:21:44,247
+Interpretivists meet the same problem with reflexivity: declaring the researcher’s position,
+
+331
+00:21:44,247 --> 00:21:47,270
+because it shapes what is noticed and what is recorded.
+
+332
+00:21:49,470 --> 00:21:50,310
+Chapter seven.
+
+333
+00:21:50,710 --> 00:21:52,950
+Models, and why none of them is reality.
+
+334
+00:21:55,670 --> 00:21:59,900
+A map at a scale of one to one would be perfectly accurate and perfectly useless.
+
+335
+00:22:00,300 --> 00:22:02,810
+Models are valuable because they leave things out.
+
+336
+00:22:03,210 --> 00:22:07,460
+The statistician George Box put it bluntly: all models are wrong.
+
+337
+00:22:08,210 --> 00:22:13,494
+Michael Weisberg distinguishes three kinds of idealization: simplifying for tractability,
+
+338
+00:22:13,494 --> 00:22:19,490
+keeping only the factors that make a difference, and building several incompatible models on purpose.
+
+339
+00:22:19,890 --> 00:22:23,911
+Mary Morgan and Margaret Morrison describe models as mediators,
+
+340
+00:22:23,911 --> 00:22:26,720
+partly independent of both theory and world.
+
+341
+00:22:27,470 --> 00:22:30,529
+Richard Levins, whom you met in the first film,
+
+342
+00:22:30,529 --> 00:22:35,540
+argued that no model can maximize generality, realism, and precision at once.
+
+343
+00:22:35,940 --> 00:22:40,350
+His remedy was robustness analysis: if several different models agree,
+
+344
+00:22:40,350 --> 00:22:43,500
+the result is probably not an artifact of any one.
+
+345
+00:22:43,900 --> 00:22:47,730
+“Our truth,” he wrote, “is the intersection of independent lies.”
+
+346
+00:22:50,130 --> 00:22:53,510
+Wolf, elk, aspen: three boxes and two arrows.
+
+347
+00:22:53,910 --> 00:22:57,690
+The model is clear, memorable, and wrong in ways that matter.
+
+348
+00:22:58,440 --> 00:23:05,523
+The system it stands for has pumas, which killed a larger share of Northern Range elk than wolves
+
+349
+00:23:05,523 --> 00:23:12,461
+did in most years from 1998 to 2004; grizzly and black bears, the main predators of elk calves;
+
+350
+00:23:12,461 --> 00:23:18,960
+human hunters; a bison herd that grew fourfold; and beaver, drought, and incised streams.
+
+351
+00:23:19,710 --> 00:23:22,990
+Models also travel beyond the conditions that built them.
+
+352
+00:23:23,390 --> 00:23:28,190
+One analysis estimated a fifteen-hundred-percent increase in willow crown volume.
+
+353
+00:23:28,590 --> 00:23:30,764
+Critics argue that the volume equation,
+
+354
+00:23:30,764 --> 00:23:34,890
+calibrated on lightly browsed plants, was applied to heavily browsed ones.
+
+355
+00:23:35,290 --> 00:23:39,450
+An estimate is only as good as the model linking it to the quantity you care about.
+
+356
+00:23:41,850 --> 00:23:43,450
+Models also act in the world.
+
+357
+00:23:43,850 --> 00:23:48,017
+Early wolf-removal programs assumed moose were caught in a predator pit,
+
+358
+00:23:48,017 --> 00:23:52,590
+a low-density state held by predators, with a high-density state waiting above.
+
+359
+00:23:52,990 --> 00:23:57,600
+Kill enough wolves, the model said, and moose would climb out to a new equilibrium.
+
+360
+00:23:58,350 --> 00:24:03,409
+François Messier found instead that wolf predation tends to hold moose at a single equilibrium,
+
+361
+00:24:03,409 --> 00:24:07,403
+and a National Research Council review found little support for alternative
+
+362
+00:24:07,403 --> 00:24:09,320
+stable states in wolf–moose systems.
+
+363
+00:24:09,720 --> 00:24:12,640
+A model of two states had helped justify real killing.
+
+364
+00:24:13,390 --> 00:24:15,256
+Not every model is mathematical:
+
+365
+00:24:15,256 --> 00:24:19,280
+a range map in a field guide and a hunting regulation are models too.
+
+366
+00:24:19,680 --> 00:24:24,450
+And a species distribution model estimates the realized niche, never the fundamental one.
+
+367
+00:24:26,650 --> 00:24:27,350
+Chapter eight.
+
+368
+00:24:27,750 --> 00:24:30,540
+Causality: association is not explanation.
+
+369
+00:24:33,240 --> 00:24:35,890
+Two variables can move together for many reasons.
+
+370
+00:24:36,290 --> 00:24:41,976
+One may cause the other; the other may cause the one; a third variable may cause both;
+
+371
+00:24:41,976 --> 00:24:46,340
+or the association may be manufactured by how cases were selected.
+
+372
+00:24:46,740 --> 00:24:50,320
+Confounding, reverse causation, and collider bias.
+
+373
+00:24:51,070 --> 00:24:52,080
+Here is a real puzzle.
+
+374
+00:24:52,480 --> 00:24:57,412
+Across western North America, adult female elk survived better where both pumas
+
+375
+00:24:57,412 --> 00:25:01,470
+and wolves lived than where there was only one predator, or none.
+
+376
+00:25:01,870 --> 00:25:03,430
+Do two predators protect elk?
+
+377
+00:25:04,180 --> 00:25:05,310
+Almost certainly not.
+
+378
+00:25:05,710 --> 00:25:09,533
+Managers expecting heavy predation had already cut hunting quotas there,
+
+379
+00:25:09,533 --> 00:25:11,710
+so management was a common cause of both.
+
+380
+00:25:12,110 --> 00:25:14,374
+Across the same forty-five populations,
+
+381
+00:25:14,374 --> 00:25:17,740
+human harvest lowered survival far more than any predator.
+
+382
+00:25:18,490 --> 00:25:20,372
+A related trap is Simpson’s paradox,
+
+383
+00:25:20,372 --> 00:25:24,710
+where a trend that holds within every subgroup reverses once the groups are pooled.
+
+384
+00:25:25,110 --> 00:25:28,220
+The data alone cannot tell you whether to pool or stratify.
+
+385
+00:25:28,620 --> 00:25:29,880
+That takes a causal model.
+
+386
+00:25:32,280 --> 00:25:33,200
+What is a cause?
+
+387
+00:25:33,600 --> 00:25:35,730
+David Hume answered regular succession.
+
+388
+00:25:36,130 --> 00:25:39,982
+David Lewis answered with counterfactuals: c caused e if,
+
+389
+00:25:39,982 --> 00:25:43,090
+had c not happened, e would not have happened.
+
+390
+00:25:43,490 --> 00:25:46,168
+James Woodward answered with intervention:
+
+391
+00:25:46,168 --> 00:25:49,930
+c causes e if changing c, and nothing else, would change e.
+
+392
+00:25:50,680 --> 00:25:53,050
+Statisticians formalized the counterfactual.
+
+393
+00:25:53,450 --> 00:25:57,480
+Each unit has two potential outcomes, one with the treatment and one without.
+
+394
+00:25:57,880 --> 00:26:02,302
+Paul Holland called the catch the fundamental problem of causal inference:
+
+395
+00:26:02,302 --> 00:26:05,110
+for any one unit, you observe only one of them.
+
+396
+00:26:05,860 --> 00:26:08,640
+Wildlife biologists know this problem by another name.
+
+397
+00:26:09,040 --> 00:26:13,187
+Mortality is additive if a predator’s kills add to deaths from other causes,
+
+398
+00:26:13,187 --> 00:26:16,570
+and compensatory if the animals killed would have died anyway.
+
+399
+00:26:16,970 --> 00:26:20,300
+That is a counterfactual claim about animals that are already dead.
+
+400
+00:26:21,050 --> 00:26:22,610
+Evidence can still bear on it.
+
+401
+00:26:23,010 --> 00:26:27,904
+In Yellowstone, wolf-killed cow elk were most often about sixteen years old;
+
+402
+00:26:27,904 --> 00:26:29,900
+hunter-killed cows, about four.
+
+403
+00:26:30,300 --> 00:26:32,785
+Old elk have little time left to live or breed,
+
+404
+00:26:32,785 --> 00:26:37,120
+so wolf kills are more likely compensatory, and hunter kills more likely additive.
+
+405
+00:26:39,520 --> 00:26:44,005
+Judea Pearl gave causal reasoning a picture: the directed acyclic graph,
+
+406
+00:26:44,005 --> 00:26:47,120
+in which arrows show which variables affect which.
+
+407
+00:26:47,520 --> 00:26:51,710
+Wolves, pumas, bears, hunters, and drought point at elk.
+
+408
+00:26:52,110 --> 00:26:55,460
+Elk, bison, and water point at aspen and willow.
+
+409
+00:26:55,860 --> 00:26:57,150
+Beaver points at water.
+
+410
+00:26:57,900 --> 00:26:59,750
+The graph tells you what to adjust for.
+
+411
+00:27:00,150 --> 00:27:03,932
+To estimate the effect of wolves on elk, block every back-door path,
+
+412
+00:27:03,932 --> 00:27:07,880
+every route by which a common cause, such as management, links the two.
+
+413
+00:27:08,280 --> 00:27:14,220
+Pearl ranks causal questions on a ladder: association, intervention, and counterfactuals.
+
+414
+00:27:14,970 --> 00:27:18,760
+Adam Ford and Jacob Goheen applied this logic to trophic cascades.
+
+415
+00:27:19,160 --> 00:27:23,665
+Three links must be shown: predators suppress herbivores;
+
+416
+00:27:23,665 --> 00:27:28,170
+herbivores suppress plants; and so predators help plants.
+
+417
+00:27:28,570 --> 00:27:32,650
+In Yellowstone, exclosures establish the second link.
+
+418
+00:27:33,050 --> 00:27:36,480
+The first is the least certain, and the third is mixed.
+
+419
+00:27:38,880 --> 00:27:41,332
+Ronald Fisher’s answer was randomization:
+
+420
+00:27:41,332 --> 00:27:45,400
+assign treatments by chance, and confounders balance out on average.
+
+421
+00:27:45,800 --> 00:27:50,050
+Crossing two treatments in a factorial design also reveals whether they interact.
+
+422
+00:27:50,800 --> 00:27:55,580
+On the Northern Range, researchers crossed simulated beaver dams with elk exclosures.
+
+423
+00:27:55,980 --> 00:27:57,830
+Either one alone sped willow growth.
+
+424
+00:27:58,230 --> 00:28:01,490
+Together, they let willows pass browse height in about five years.
+
+425
+00:28:01,890 --> 00:28:04,600
+Untreated controls never did, even after twenty.
+
+426
+00:28:05,350 --> 00:28:08,320
+Paired experiments can separate top-down from bottom-up.
+
+427
+00:28:08,720 --> 00:28:12,313
+In Idaho, removing coyotes and pumas raised mule deer fawn
+
+428
+00:28:12,313 --> 00:28:15,720
+survival slightly but did not change population growth.
+
+429
+00:28:16,120 --> 00:28:20,760
+In Colorado, feeding deer in winter raised population growth by thirteen percent a year.
+
+430
+00:28:21,510 --> 00:28:22,630
+Weaker designs leak.
+
+431
+00:28:23,030 --> 00:28:25,768
+Many predator-removal programs had no controls
+
+432
+00:28:25,768 --> 00:28:29,340
+and relaxed hunting at the same time, confounding by design.
+
+433
+00:28:29,740 --> 00:28:32,287
+And nature sometimes runs the experiment:
+
+434
+00:28:32,287 --> 00:28:38,190
+when canine parvovirus collapsed Isle Royale’s wolves, moose grew faster and to higher numbers.
+
+435
+00:28:38,940 --> 00:28:42,733
+When experiments are impossible, before-after-control-impact designs
+
+436
+00:28:42,733 --> 00:28:46,750
+and Austin Bradford Hill’s viewpoints help weigh observational evidence.
+
+437
+00:28:47,150 --> 00:28:50,119
+Interpretive social science adds another kind of cause:
+
+438
+00:28:50,119 --> 00:28:54,060
+the reasons that move people, such as a rancher’s choice to tolerate elk.
+
+439
+00:28:56,260 --> 00:28:56,980
+Chapter nine.
+
+440
+00:28:57,380 --> 00:29:00,800
+Underdetermination: when evidence fits more than one theory.
+
+441
+00:29:03,500 --> 00:29:07,020
+Any finite set of points can be threaded by infinitely many curves.
+
+442
+00:29:07,420 --> 00:29:10,597
+Underdetermination is the general form of that fact:
+
+443
+00:29:10,597 --> 00:29:13,530
+evidence alone may not fix which theory is true.
+
+444
+00:29:13,930 --> 00:29:19,070
+Duhem and Quine’s holism makes it worse, because auxiliary assumptions can always be adjusted.
+
+445
+00:29:19,820 --> 00:29:25,262
+Philosophers distinguish transient underdetermination, which better data or designs can resolve,
+
+446
+00:29:25,262 --> 00:29:30,420
+from strong underdetermination, in which rival theories are empirically equivalent forever.
+
+447
+00:29:30,820 --> 00:29:35,130
+Most of what ecologists face is the transient kind, though it can last a long time.
+
+448
+00:29:35,880 --> 00:29:40,430
+Hydrologists call it equifinality: many parameter sets fit the same record.
+
+449
+00:29:40,830 --> 00:29:43,500
+Ecologists know it as the pattern–process problem.
+
+450
+00:29:43,900 --> 00:29:45,241
+As the first film showed,
+
+451
+00:29:45,241 --> 00:29:49,370
+neutral and niche models can produce the same species-abundance distribution.
+
+452
+00:29:51,770 --> 00:29:59,725
+The Northern Range elk decline fits many stories: wolves; hunters taking females that left the park;
+
+453
+00:29:59,725 --> 00:30:06,010
+drought; pumas; grizzly and black bears; competition with a growing bison herd.
+
+454
+00:30:06,410 --> 00:30:10,610
+A demographic analysis attributed the first decade mainly to hunting and drought.
+
+455
+00:30:11,010 --> 00:30:14,110
+No comparable analysis has apportioned the decline since.
+
+456
+00:30:14,860 --> 00:30:16,240
+Some ties have been broken.
+
+457
+00:30:16,640 --> 00:30:21,760
+Since 2005, the share of the herd wintering outside the park rose from twenty to eighty percent.
+
+458
+00:30:22,160 --> 00:30:25,535
+It looked like elk fleeing wolves, but it was demographic:
+
+459
+00:30:25,535 --> 00:30:29,550
+elk outside the park survived better, rather than individuals moving.
+
+460
+00:30:30,300 --> 00:30:33,570
+And a design built to separate mechanisms did separate them.
+
+461
+00:30:33,970 --> 00:30:38,881
+Linking aspen recruitment to ten measures of predation risk and to changes in elk density,
+
+462
+00:30:38,881 --> 00:30:44,120
+Brice and colleagues found risk effects eight to twenty-eight times weaker than density effects.
+
+463
+00:30:44,870 --> 00:30:46,600
+For willow, the tie persists.
+
+464
+00:30:46,1000 --> 00:30:50,090
+From the same data, one group sees a stalled system,
+
+465
+00:30:50,090 --> 00:30:55,320
+possibly an alternative stable state held by bison, incised streams, and missing beaver.
+
+466
+00:30:55,720 --> 00:30:59,750
+Another sees willow height doubled in twenty years: a slow recovery.
+
+467
+00:31:02,150 --> 00:31:04,740
+How do scientists choose when evidence does not?
+
+468
+00:31:05,140 --> 00:31:09,768
+With theoretical virtues, such as simplicity, scope, and coherence with other knowledge,
+
+469
+00:31:09,768 --> 00:31:12,660
+though choosing among the virtues is itself a judgment.
+
+470
+00:31:13,410 --> 00:31:17,330
+Better, design discriminating tests, as Chamberlin and Platt urged.
+
+471
+00:31:17,730 --> 00:31:19,300
+Or weigh many models at once.
+
+472
+00:31:19,700 --> 00:31:24,933
+Kenneth Burnham and David Anderson’s multimodel inference ranks candidate models by information
+
+473
+00:31:24,933 --> 00:31:29,560
+criteria such as AIC, and averages across them rather than crowning a single winner.
+
+474
+00:31:30,310 --> 00:31:32,430
+Scale can also dissolve a contradiction.
+
+475
+00:31:32,830 --> 00:31:36,177
+Large carnivores feed smaller carnivores through carrion nearby,
+
+476
+00:31:36,177 --> 00:31:37,850
+and kill them across landscapes.
+
+477
+00:31:38,250 --> 00:31:42,296
+Studies covering less than a thousand square kilometers tend
+
+478
+00:31:42,296 --> 00:31:46,410
+to find positive associations; larger studies, negative ones.
+
+479
+00:31:46,810 --> 00:31:48,480
+Both are right, at their own scale.
+
+480
+00:31:50,680 --> 00:31:51,440
+Chapter ten.
+
+481
+00:31:51,840 --> 00:31:55,020
+Bayesian epistemology: how evidence should change belief.
+
+482
+00:31:57,720 --> 00:32:00,920
+Bayesian epistemology treats belief as a matter of degree.
+
+483
+00:32:01,320 --> 00:32:05,810
+A credence is a probability, from zero to one, that a hypothesis is true.
+
+484
+00:32:06,210 --> 00:32:10,915
+Frank Ramsey argued that credences should obey the laws of probability: if they do not,
+
+485
+00:32:10,915 --> 00:32:15,620
+a clever bookie could sell you a set of bets that loses whatever happens, a Dutch book.
+
+486
+00:32:16,370 --> 00:32:19,240
+Bayes’ theorem says how evidence should change a credence.
+
+487
+00:32:19,640 --> 00:32:24,645
+The posterior probability of a hypothesis, given the evidence, is proportional to its prior
+
+488
+00:32:24,645 --> 00:32:29,980
+probability times the likelihood: how probable the evidence would be if the hypothesis were true.
+
+489
+00:32:30,730 --> 00:32:33,420
+Updating this way is called conditionalization.
+
+490
+00:32:33,820 --> 00:32:37,296
+Evidence confirms a hypothesis when it raises its probability,
+
+491
+00:32:37,296 --> 00:32:39,370
+and disconfirms it when it lowers it.
+
+492
+00:32:39,770 --> 00:32:42,080
+On this view, confirmation comes in degrees.
+
+493
+00:32:44,480 --> 00:32:47,800
+How strongly does evidence favor one hypothesis over another?
+
+494
+00:32:48,200 --> 00:32:49,867
+The likelihood ratio answers:
+
+495
+00:32:49,867 --> 00:32:53,890
+how much more probable the evidence is under one than under the other.
+
+496
+00:32:54,290 --> 00:32:57,330
+It is the factor by which the evidence should multiply your odds.
+
+497
+00:32:58,080 --> 00:33:00,900
+Ignore the prior and you commit the base-rate fallacy.
+
+498
+00:33:01,300 --> 00:33:05,134
+Suppose a camera-trap classifier labels ninety-five percent of wolf
+
+499
+00:33:05,134 --> 00:33:09,141
+photos correctly and mislabels one percent of coyote photos as wolves,
+
+500
+00:33:09,141 --> 00:33:12,460
+in a region where one canid photo in a thousand is a wolf.
+
+501
+00:33:12,860 --> 00:33:16,010
+About nine in ten photos flagged as wolves are coyotes.
+
+502
+00:33:16,760 --> 00:33:21,309
+Richard Royall separated three questions: what does the evidence say;
+
+503
+00:33:21,309 --> 00:33:24,210
+what should I believe; and what should I do?
+
+504
+00:33:24,610 --> 00:33:26,030
+They map onto our bands.
+
+505
+00:33:26,430 --> 00:33:30,385
+The likelihood ratio answers the first, the posterior the second,
+
+506
+00:33:30,385 --> 00:33:32,940
+and a decision, with its costs, the third.
+
+507
+00:33:35,340 --> 00:33:37,950
+Read the Yellowstone debate as a sequence of updates.
+
+508
+00:33:38,350 --> 00:33:41,906
+The prior came from Isle Royale, where tree rings tracked the rise
+
+509
+00:33:41,906 --> 00:33:44,870
+and fall of wolves and moose, and from Leopold’s story.
+
+510
+00:33:45,270 --> 00:33:49,590
+Early aspen studies raised belief in a strong cascade, driven by fear.
+
+511
+00:33:50,340 --> 00:33:55,706
+Then a landscape test found no fear effect, random sampling found a weaker signal,
+
+512
+00:33:55,706 --> 00:33:58,520
+density outweighed risk, and willow lagged.
+
+513
+00:33:58,920 --> 00:34:03,981
+Belief in some cascade on aspen survived; belief that fear drives it fell;
+
+514
+00:34:03,981 --> 00:34:06,990
+uncertainty about its strength remains wide.
+
+515
+00:34:07,740 --> 00:34:10,590
+Bayesian reading also guards against a common error.
+
+516
+00:34:10,990 --> 00:34:16,720
+Across sixteen pairs of large carnivores and mesocarnivores,
+
+517
+00:34:16,720 --> 00:34:20,922
+the average abundance correlation was −0.18,
+
+518
+00:34:20,922 --> 00:34:29,230
+with a 95 percent confidence interval from −0.41 to 0.05: not significant, at p = 0.11.
+
+519
+00:34:29,980 --> 00:34:33,100
+Not significant is not the same as no effect.
+
+520
+00:34:33,500 --> 00:34:36,585
+Read with a flat prior, that interval puts the probability
+
+521
+00:34:36,585 --> 00:34:39,830
+that the average effect is negative near ninety-four percent.
+
+522
+00:34:40,230 --> 00:34:43,960
+The evidence leans toward suppression, but the data are mostly correlative.
+
+523
+00:34:46,360 --> 00:34:47,600
+Where do priors come from?
+
+524
+00:34:47,1000 --> 00:34:49,430
+Critics call them subjective.
+
+525
+00:34:49,830 --> 00:34:53,977
+Bayesians reply that with enough shared evidence, different priors converge,
+
+526
+00:34:53,977 --> 00:34:59,870
+because the data wash them out, and that writing priors down exposes assumptions other methods leave hidden.
+
+527
+00:35:00,620 --> 00:35:02,450
+Deborah Mayo offers the main rival.
+
+528
+00:35:02,850 --> 00:35:07,720
+On her error-statistical view, evidence supports a claim when the claim has passed a severe test,
+
+529
+00:35:07,720 --> 00:35:10,280
+one it would probably have failed if it were false.
+
+530
+00:35:10,680 --> 00:35:14,450
+The question is not how much to believe, but how well the claim has been probed.
+
+531
+00:35:16,650 --> 00:35:17,570
+Chapter eleven.
+
+532
+00:35:17,970 --> 00:35:21,680
+Replication: would it happen again, and elsewhere?
+
+533
+00:35:24,380 --> 00:35:26,670
+When a finding holds up, what exactly held?
+
+534
+00:35:27,070 --> 00:35:32,865
+The National Academies distinguish reproducibility, where the same data and code give the same result,
+
+535
+00:35:32,865 --> 00:35:37,410
+from replicability, where a new study with new data reaches a consistent result.
+
+536
+00:35:38,160 --> 00:35:39,230
+Two more words help.
+
+537
+00:35:39,630 --> 00:35:44,780
+Generalizability asks whether a result extends to other places, times, and populations.
+
+538
+00:35:45,180 --> 00:35:48,840
+Robustness asks whether it survives reasonable changes of analysis.
+
+539
+00:35:49,240 --> 00:35:51,594
+When twenty-nine teams analyzed one data set,
+
+540
+00:35:51,594 --> 00:35:55,100
+their estimates ranged from slightly negative to strongly positive.
+
+541
+00:35:57,500 --> 00:36:02,834
+In 2005, John Ioannidis argued that most published research findings are false,
+
+542
+00:36:02,834 --> 00:36:06,750
+given small samples, small effects, and flexible analyses.
+
+543
+00:36:07,150 --> 00:36:11,350
+In 2015, a large collaboration repeated one hundred psychology studies.
+
+544
+00:36:11,750 --> 00:36:15,133
+Ninety-seven percent of the originals had significant results;
+
+545
+00:36:15,133 --> 00:36:17,480
+thirty-six percent of the replications did.
+
+546
+00:36:18,230 --> 00:36:24,159
+The causes are familiar: low statistical power; publication bias toward positive results;
+
+547
+00:36:24,159 --> 00:36:28,222
+p-hacking, trying analyses until one is significant; HARKing,
+
+548
+00:36:28,222 --> 00:36:32,819
+presenting a hypothesis formed after the results as if it came first;
+
+549
+00:36:32,819 --> 00:36:39,480
+and the garden of forking paths, where each reasonable choice raises the chance of a false positive.
+
+550
+00:36:40,230 --> 00:36:41,750
+Ecology is not exempt.
+
+551
+00:36:42,150 --> 00:36:45,650
+Many ecologists surveyed admit to questionable research practices.
+
+552
+00:36:46,050 --> 00:36:50,880
+And Stuart Hurlbert showed in 1984 that many field experiments were pseudoreplicated,
+
+553
+00:36:50,880 --> 00:36:54,800
+treating repeated measurements of one unit as independent replicates.
+
+554
+00:36:57,200 --> 00:37:02,538
+In the Madison Headwaters of central Yellowstone, wolves met a non-migratory herd of four to
+
+555
+00:37:02,538 --> 00:37:08,050
+six hundred elk, wintering on patches kept bare by thermal features and hemmed in by deep snow.
+
+556
+00:37:08,450 --> 00:37:13,390
+Cow survival fell by five to fifteen percent, and elk numbers fell five- to tenfold.
+
+557
+00:37:14,140 --> 00:37:17,119
+Less than thirty kilometers away, on the Northern Range,
+
+558
+00:37:17,119 --> 00:37:19,620
+the effect of the same wolves is still debated.
+
+559
+00:37:20,020 --> 00:37:23,520
+And on two Alaskan islands, wolves nearly eliminated the deer.
+
+560
+00:37:23,920 --> 00:37:25,870
+Same predator, different worlds.
+
+561
+00:37:26,620 --> 00:37:29,360
+Replication across many sites sharpens the pattern.
+
+562
+00:37:29,760 --> 00:37:35,220
+Across eleven elk populations, only grizzly predation added to newborn calf mortality.
+
+563
+00:37:35,620 --> 00:37:38,840
+Across forty-five, human harvest outweighed every predator.
+
+564
+00:37:39,240 --> 00:37:43,690
+Across fifty-two removal experiments, killing predators rarely raised abundance.
+
+565
+00:37:44,440 --> 00:37:46,650
+Generalizing also depends on where we look.
+
+566
+00:37:47,050 --> 00:37:51,345
+About seventy percent of studies of carnivore interactions are in protected areas,
+
+567
+00:37:51,345 --> 00:37:55,536
+yet only fifteen percent of large-carnivore range in North America is protected,
+
+568
+00:37:55,536 --> 00:37:58,260
+and four percent is strictly protected from hunting.
+
+569
+00:37:59,010 --> 00:38:01,500
+The review’s answer is a set of scope conditions.
+
+570
+00:38:01,900 --> 00:38:05,660
+Predators most often limit their prey where prey are spatially confined,
+
+571
+00:38:05,660 --> 00:38:08,950
+where they share a predator with a more resilient prey species,
+
+572
+00:38:08,950 --> 00:38:12,240
+or where several predators specialize on different life stages.
+
+573
+00:38:14,640 --> 00:38:18,881
+Remedies are spreading: preregistration and registered reports,
+
+574
+00:38:18,881 --> 00:38:22,852
+which fix hypotheses and analyses before the data are seen;
+
+575
+00:38:22,852 --> 00:38:28,170
+open data and code; and coordinated experiments run the same way at many sites.
+
+576
+00:38:28,570 --> 00:38:32,550
+For predictive models, transferability must be tested, not assumed.
+
+577
+00:38:33,300 --> 00:38:35,530
+Interpretive research has its own standards.
+
+578
+00:38:35,930 --> 00:38:41,009
+Instead of validity and reliability, it asks for trustworthiness:
+
+579
+00:38:41,009 --> 00:38:46,010
+credibility, transferability, dependability, and confirmability.
+
+580
+00:38:48,210 --> 00:38:48,900
+Chapter twelve.
+
+581
+00:38:49,300 --> 00:38:51,400
+Values, objectivity, and judgment.
+
+582
+00:38:54,410 --> 00:38:55,990
+Should science be value-free?
+
+583
+00:38:56,390 --> 00:38:59,898
+The traditional ideal says values may guide which questions we ask
+
+584
+00:38:59,898 --> 00:39:02,980
+and how we use the answers, but not how we judge evidence.
+
+585
+00:39:03,380 --> 00:39:08,030
+Hans Reichenbach separated the context of discovery from the context of justification.
+
+586
+00:39:08,780 --> 00:39:11,260
+In 1953, Richard Rudner objected.
+
+587
+00:39:11,660 --> 00:39:16,741
+Evidence never makes a hypothesis certain, so accepting one means judging the evidence strong enough,
+
+588
+00:39:16,741 --> 00:39:19,760
+and how strong is enough depends on the cost of being wrong.
+
+589
+00:39:20,160 --> 00:39:23,060
+Heather Douglas calls this the argument from inductive risk.
+
+590
+00:39:23,810 --> 00:39:27,580
+Epistemic values, such as accuracy and simplicity, bear on truth.
+
+591
+00:39:27,980 --> 00:39:30,965
+Non-epistemic values, such as safety, livelihoods,
+
+592
+00:39:30,965 --> 00:39:34,010
+or the survival of a species, bear on consequences.
+
+593
+00:39:34,410 --> 00:39:38,489
+Douglas argues that the second kind may legitimately set evidential thresholds,
+
+594
+00:39:38,489 --> 00:39:40,400
+but must never stand in for evidence.
+
+595
+00:39:42,800 --> 00:39:47,762
+Mountain caribou declined by fifty-one percent between 1991 and 2023,
+
+596
+00:39:47,762 --> 00:39:52,940
+and fifteen of forty-one subpopulations are now functionally extirpated.
+
+597
+00:39:53,340 --> 00:39:58,109
+Logging opened forests to moose and deer, which supported more wolves,
+
+598
+00:39:58,109 --> 00:40:01,380
+which killed more caribou: apparent competition.
+
+599
+00:40:02,130 --> 00:40:04,700
+Recovery actions have included killing wolves.
+
+600
+00:40:05,100 --> 00:40:10,150
+Conclude that wolves are not limiting caribou when they are, and a population disappears.
+
+601
+00:40:10,550 --> 00:40:14,220
+Conclude that they are when they are not, and wolves die for nothing.
+
+602
+00:40:14,620 --> 00:40:17,880
+Which error is worse is not a question the data can answer alone.
+
+603
+00:40:18,630 --> 00:40:21,090
+Values also shape which impacts get counted.
+
+604
+00:40:21,490 --> 00:40:26,118
+Where wolves recolonized Wisconsin, deer–vehicle collisions fell by about a quarter,
+
+605
+00:40:26,118 --> 00:40:29,920
+with benefits estimated at sixty-three times the losses of livestock.
+
+606
+00:40:30,320 --> 00:40:33,509
+Puma recovery in the eastern United States was projected to
+
+607
+00:40:33,509 --> 00:40:36,860
+prevent one hundred fifty-five human deaths over thirty years.
+
+608
+00:40:39,260 --> 00:40:40,500
+What counts as recovery?
+
+609
+00:40:40,900 --> 00:40:44,322
+Much of the disagreement over Yellowstone’s willow and aspen,
+
+610
+00:40:44,322 --> 00:40:49,090
+Wilmers and colleagues conclude, stems from definitions and from uncertain baselines.
+
+611
+00:40:49,490 --> 00:40:53,762
+Should recovery be measured against the landscape before European colonization,
+
+612
+00:40:53,762 --> 00:40:58,250
+already shaped by Indigenous peoples, or against a landscape without people at all?
+
+613
+00:40:58,1000 --> 00:41:02,752
+Michael Soulé called conservation biology a crisis discipline:
+
+614
+00:41:02,752 --> 00:41:09,410
+it must act before the evidence is complete, and its goals, such as keeping species and processes, are values.
+
+615
+00:41:09,810 --> 00:41:12,198
+Deciding how many carnivores a landscape should
+
+616
+00:41:12,198 --> 00:41:14,790
+hold is an ecological question and a political one.
+
+617
+00:41:17,190 --> 00:41:20,970
+If individual scientists carry values, where does objectivity come from?
+
+618
+00:41:21,370 --> 00:41:25,705
+Robert Merton described the norms of science: communalism,
+
+619
+00:41:25,705 --> 00:41:30,040
+universalism, disinterestedness, and organized skepticism.
+
+620
+00:41:30,440 --> 00:41:33,266
+Helen Longino located objectivity in communities
+
+621
+00:41:33,266 --> 00:41:36,210
+that expose claims to criticism and respond to it.
+
+622
+00:41:36,960 --> 00:41:39,496
+Sandra Harding argued for strong objectivity:
+
+623
+00:41:39,496 --> 00:41:45,640
+starting research from the standpoints of marginalized groups reveals assumptions a dominant view cannot see.
+
+624
+00:41:46,040 --> 00:41:49,902
+Heather Douglas notes that objectivity is not one thing but several,
+
+625
+00:41:49,902 --> 00:41:52,230
+from fair procedures to reliable results.
+
+626
+00:41:52,980 --> 00:41:55,670
+The Yellowstone debate shows criticism at work.
+
+627
+00:41:56,070 --> 00:42:00,490
+Comments and replies sharpened sampling designs, separated fear from density,
+
+628
+00:42:00,490 --> 00:42:03,820
+and produced shared standards for demonstrating a cascade.
+
+629
+00:42:04,570 --> 00:42:06,290
+The two traditions differ here too.
+
+630
+00:42:06,690 --> 00:42:10,910
+Postpositivism aims at value neutrality while studying how values intrude.
+
+631
+00:42:11,310 --> 00:42:14,308
+Interpretivism makes values explicit through reflexivity,
+
+632
+00:42:14,308 --> 00:42:17,570
+treating the researcher’s commitments as part of the evidence.
+
+633
+00:42:19,770 --> 00:42:20,800
+Chapter thirteen.
+
+634
+00:42:21,200 --> 00:42:24,630
+Demarcation: what counts as science, and who decides.
+
+635
+00:42:27,330 --> 00:42:28,620
+What counts as science?
+
+636
+00:42:29,020 --> 00:42:32,670
+The demarcation problem sounds academic until a court must decide.
+
+637
+00:42:33,070 --> 00:42:36,798
+In 1982, a federal judge struck down an Arkansas law requiring
+
+638
+00:42:36,798 --> 00:42:41,850
+that creation science be taught alongside evolution, ruling that it was not science.
+
+639
+00:42:42,250 --> 00:42:45,880
+In 2005, another court ruled the same of intelligent design.
+
+640
+00:42:46,630 --> 00:42:53,060
+In 1993, the Supreme Court’s Daubert decision asked judges to screen expert testimony by testability,
+
+641
+00:42:53,060 --> 00:42:56,880
+peer review, error rates, standards, and general acceptance.
+
+642
+00:42:57,280 --> 00:43:00,877
+Funders, journals, and environmental assessments draw similar lines,
+
+643
+00:43:00,877 --> 00:43:03,840
+and those lines decide whose knowledge shapes decisions.
+
+644
+00:43:06,240 --> 00:43:08,720
+Each philosophy we have met offered a criterion.
+
+645
+00:43:09,120 --> 00:43:11,890
+The logical positivists: verifiability.
+
+646
+00:43:12,290 --> 00:43:14,320
+Popper: falsifiability.
+
+647
+00:43:14,720 --> 00:43:17,450
+Kuhn: a tradition of puzzle-solving.
+
+648
+00:43:17,850 --> 00:43:21,040
+Lakatos: a progressive research program.
+
+649
+00:43:21,440 --> 00:43:25,059
+And Paul Thagard: a pseudoscience is a field that stagnates
+
+650
+00:43:25,059 --> 00:43:29,230
+while its rivals progress, and whose practitioners ignore that fact.
+
+651
+00:43:29,980 --> 00:43:32,800
+The courts leaned on methodological naturalism:
+
+652
+00:43:32,800 --> 00:43:38,080
+science explains natural phenomena by natural causes, whatever one believes beyond them.
+
+653
+00:43:38,480 --> 00:43:41,806
+Merton and Longino point instead to institutions:
+
+654
+00:43:41,806 --> 00:43:45,200
+open criticism, peer review, and shared standards.
+
+655
+00:43:45,950 --> 00:43:49,420
+In 1983, Larry Laudan declared the problem dead.
+
+656
+00:43:49,820 --> 00:43:53,840
+No set of necessary and sufficient conditions had survived counterexamples.
+
+657
+00:43:54,240 --> 00:43:59,720
+Astrology makes testable claims and fails them; much good science is hard to falsify.
+
+658
+00:44:00,470 --> 00:44:02,320
+Others revived it in looser form.
+
+659
+00:44:02,720 --> 00:44:06,103
+Massimo Pigliucci treats science as a cluster concept,
+
+660
+00:44:06,103 --> 00:44:08,860
+a family resemblance with no single essence.
+
+661
+00:44:09,260 --> 00:44:11,843
+Paul Hoyningen-Huene argues that science differs
+
+662
+00:44:11,843 --> 00:44:14,480
+from everyday knowledge by being more systematic.
+
+663
+00:44:14,880 --> 00:44:19,780
+And the German word Wissenschaft names all systematic knowledge, from physics to history.
+
+664
+00:44:22,180 --> 00:44:26,940
+Now apply the criteria to our two research traditions, with astrology as a contrast.
+
+665
+00:44:27,340 --> 00:44:31,510
+Under verifiability, none fits cleanly; even physics strained it.
+
+666
+00:44:31,910 --> 00:44:38,319
+Under falsifiability, postpositivist natural science fits by design, interpretive research fits in part,
+
+667
+00:44:38,319 --> 00:44:43,310
+and astrology, awkwardly, fits too: its predictions can be tested, and they fail.
+
+668
+00:44:44,060 --> 00:44:47,520
+Under institutional norms and Thagard’s test of progress,
+
+669
+00:44:47,520 --> 00:44:51,283
+interpretive social research qualifies and astrology does not:
+
+670
+00:44:51,283 --> 00:44:58,020
+no community criticizes and revises its claims, and it has stood still for centuries while its rivals advanced.
+
+671
+00:44:58,770 --> 00:45:02,386
+Under cluster or systematicity accounts, or Wissenschaft,
+
+672
+00:45:02,386 --> 00:45:07,270
+interpretive research qualifies easily; in German it has always been science.
+
+673
+00:45:07,670 --> 00:45:10,500
+Whether English calls it science depends on the definition.
+
+674
+00:45:10,900 --> 00:45:12,990
+The underlying practices do not change.
+
+675
+00:45:13,390 --> 00:45:14,470
+Only the label does.
+
+676
+00:45:16,870 --> 00:45:19,890
+Demarcation is usually aimed at fields outside science.
+
+677
+00:45:20,290 --> 00:45:22,060
+The Kaibab story points inward.
+
+678
+00:45:22,460 --> 00:45:26,556
+For decades, a weakly tested account of deer and predators lived in textbooks,
+
+679
+00:45:26,556 --> 00:45:31,230
+retold by scientists and conservationists alike, until Caughley went back to the records.
+
+680
+00:45:31,980 --> 00:45:34,210
+Nothing about its subject was unscientific.
+
+681
+00:45:34,610 --> 00:45:40,930
+What failed was practice: one poorly measured case, an untested rival, and too little criticism.
+
+682
+00:45:41,330 --> 00:45:43,060
+What corrected it was practice too.
+
+683
+00:45:43,810 --> 00:45:46,927
+So demarcation concerns how claims are tested, criticized,
+
+684
+00:45:46,927 --> 00:45:49,560
+and corrected, more than the prestige of a label.
+
+685
+00:45:49,960 --> 00:45:54,558
+Under a narrow definition, postpositivist natural science is the central case
+
+686
+00:45:54,558 --> 00:45:58,320
+and interpretive research is science in an institutional sense.
+
+687
+00:45:58,720 --> 00:46:00,700
+Under a broad one, both qualify.
+
+688
+00:46:01,100 --> 00:46:02,520
+The choice has consequences.
+
+689
+00:46:02,920 --> 00:46:03,830
+Make it knowingly.
+
+690
+00:46:06,830 --> 00:46:07,800
+Chapter fourteen.
+
+691
+00:46:08,200 --> 00:46:11,620
+Synthesis: observe, infer, claim.
+
+692
+00:46:14,320 --> 00:46:18,790
+Return to the claim that wolves restored Yellowstone, and audit it band by band.
+
+693
+00:46:19,190 --> 00:46:25,279
+Observed: elk counts, from more than nineteen thousand to under four thousand,
+
+694
+00:46:25,279 --> 00:46:32,226
+then back to seven to nine; aspen saplings escaping browse in many stands; willow taller,
+
+695
+00:46:32,226 --> 00:46:39,330
+but mostly still below browse height; bison up fourfold; incised channels; few beaver dams.
+
+696
+00:46:40,080 --> 00:46:44,590
+Inferred: browsing limits aspen and willow, as exclosures show.
+
+697
+00:46:44,990 --> 00:46:49,240
+Several predators, and people, reduced elk, in shares not yet apportioned.
+
+698
+00:46:49,640 --> 00:46:52,310
+Density effects outweighed fear effects on aspen.
+
+699
+00:46:52,710 --> 00:46:56,230
+Each inference rests on sampling designs and assumptions we have examined.
+
+700
+00:46:56,980 --> 00:47:02,852
+Claimable: large-carnivore recovery, together with hunting, drought, other predators,
+
+701
+00:47:02,852 --> 00:47:08,240
+and bison, contributed to elk decline and to partial, local recovery of aspen.
+
+702
+00:47:08,640 --> 00:47:12,560
+Willow recovery is constrained, perhaps in an alternative stable state.
+
+703
+00:47:12,960 --> 00:47:15,140
+The strength of the cascade is still contested.
+
+704
+00:47:15,540 --> 00:47:18,380
+Less lovely than the viral story, and better warranted.
+
+705
+00:47:19,130 --> 00:47:22,419
+Across North America, Wilmers and colleagues conclude,
+
+706
+00:47:22,419 --> 00:47:28,570
+humans are the dominant driver of ungulate dynamics, and predator limitation is real but conditional.
+
+707
+00:47:28,970 --> 00:47:32,150
+Can predator restoration repair disrupted ecosystems?
+
+708
+00:47:32,550 --> 00:47:37,230
+Sometimes, partly, and slowly, which is why preventing their loss matters most.
+
+709
+00:47:39,630 --> 00:47:43,590
+Here is an audit you can take to any study, news story, or exam question.
+
+710
+00:47:43,990 --> 00:47:46,490
+One: what was observed, and how?
+
+711
+00:47:46,890 --> 00:47:50,070
+Two: what was inferred, under which assumptions?
+
+712
+00:47:50,470 --> 00:47:52,920
+Three: which alternatives remain?
+
+713
+00:47:53,670 --> 00:47:57,130
+Four: how strong is the evidence, and what would change your mind?
+
+714
+00:47:57,530 --> 00:48:01,430
+Five: has it been replicated, and where does it generalize?
+
+715
+00:48:01,830 --> 00:48:05,190
+Six: which values and stakes shape the claim?
+
+716
+00:48:05,590 --> 00:48:10,320
+Seven: what would another tradition of inquiry ask that this one did not?
+
+717
+00:48:11,070 --> 00:48:12,790
+No tradition owns these questions.
+
+718
+00:48:13,190 --> 00:48:16,594
+Postpositivists and interpretivists answer them in their own ways,
+
+719
+00:48:16,594 --> 00:48:18,450
+and each can hold the other to them.
+
+720
+00:48:20,850 --> 00:48:22,480
+Before you go, rehearse.
+
+721
+00:48:22,880 --> 00:48:26,860
+What separates induction from abduction, and where does strong inference fit?
+
+722
+00:48:27,260 --> 00:48:30,500
+Why does the Duhem–Quine thesis complicate falsification?
+
+723
+00:48:30,900 --> 00:48:33,170
+What did Kuhn mean by incommensurability?
+
+724
+00:48:33,920 --> 00:48:37,230
+Why is compensatory mortality a counterfactual claim?
+
+725
+00:48:37,630 --> 00:48:39,680
+What is the argument from inductive risk?
+
+726
+00:48:40,080 --> 00:48:44,800
+And how does the answer to “what counts as science?” change with the criterion you choose?
+
+727
+00:48:46,550 --> 00:48:49,170
+The ecological theater was a stage for evolution.
+
+728
+00:48:49,570 --> 00:48:51,330
+This one has been a stage for knowing.
+
+729
+00:48:51,730 --> 00:48:56,200
+Observe carefully, infer honestly, and claim no more than your warrant allows.
